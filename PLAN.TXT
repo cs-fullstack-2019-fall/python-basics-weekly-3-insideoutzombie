@@ -1,0 +1,30 @@
+going to use a while loop to prompt the user over
+and over until the selection is made
+
+will print and render:
+Hello, please choose one of following options:
+1) Check balance
+2) Add money to account
+3) Withdraw money from account
+4) Quit
+What will you like to do?
+
+followed with an if statement to check which input is
+selected and according to what the user is wanting to do
+
+using an input to take in the user selection
+
+with a nested while loop to call from and record the
+data for stored variables
+
+print return of balance or input of Balance
+
+will confirm send input
+
+from the first if statement to the last elif statement
+of the project to print return value of the account funds
+
+out of the loop a print("goodbye") for when the user
+quits the app.
+
+The end... 
