@@ -39,3 +39,7 @@ Before the program starts, ask the user for their account name and a pin number.
 
 
 # SERIOUSLY, POINTS WILL BE TAKEN OFF FOR NOT COMMENTING
+
+
+### Comments :
+Your code DID NOT run out of the box becasue of a random "=". PLEASE check your code before you leave. You were also required to complete the bonus in order to leave before 4pm and you did not complete the bonus and you left before 4pm. You redefined the account variable multiple times in your while loop meaning you never had a running balance. This is a major oversight. Make sure you read the directions carefully and run a few tests of your program before submission. I made inline comments on your code using "!!". Check them out and be sure to watch the video walkthorugh of the correct code sent in the slack.
